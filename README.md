@@ -1,11 +1,11 @@
-For this project we will be creating a face detection model
+This is a face detection model
 
-Libraries:
+Libraries used:
     - Labelme
     - Albumentations
     - Tensorflow
 
-Our machine learning models will be:
+Our machine learning models are be:
     - Classification model
     - Regression model
 
